@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shamerpubgjum@gmail.com**
 
-- ⚡ Fun fact **We're Ven0m**
+- ⚡ Fun fact **We're Ven0m** || **easy peasy lemon squeezy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
