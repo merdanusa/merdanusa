@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [E-commerce](schuh.vercel.app)
 
-- 🌱 I’m currently learning **Redux, React Querry**
+- 🌱 I’m currently learning **Ts**
 
 - 👨‍💻 All of my projects are available at [merdannotfound.ru](merdannotfound.ru)
 
