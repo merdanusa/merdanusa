@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merdan</h1>
-<h3 align="center">Pascal enthusiast & MERN Stack developer from Turkmenistan — or am I joking?
+<h3 align="center">The professional Pascal enthusiast & MERN Stack developer from Turkmenistan — or am I joking?
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merdanusa&label=Profile%20views&color=0e75b6&style=flat" alt="merdanusa" /> </p>
