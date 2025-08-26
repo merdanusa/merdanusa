@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ([SAAI-31](https://github.com/turkmenCode-Lab/SAAI-31))
 
-- 🌱 I’m currently learning **Ts**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [merdannotfound.ru](merdannotfound.ru)
 
