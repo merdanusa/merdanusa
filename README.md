@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Next Js**
 
-- 📝 I regularly write articles on [https://www.instagram.com/merdannotfound/](https://www.instagram.com/merdannotfound/)
+- 📝 I regularly write articles on [WebStorm, VsCode](WebStorm, VsCode)
 
 - 💬 Ask me about **any Full-Stack libraries**
 
