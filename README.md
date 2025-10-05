@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merdannotfound&label=Profile%20views&color=0e75b6&style=flat" alt="merdannotfound" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merdannotfound" alt="merdannotfound" /></a> </p>
-
 - 🔭 I’m currently working on [SAAI model](https://github.com/turkmenCode-Lab/SAAI-31)
 
 - 🌱 I’m currently learning **React Native, Next Js**
